@@ -75,4 +75,3 @@ const notes = [
     { id: 9, eleve_id: 5, matiere_id: 1, type_evaluation: "test", note: 1, coefficient: 1, date_evaluation: "2024-11-05", commentaire: "Insuffisant", note_sur: 5 },
     //{ id: 10, eleve_id: 5, matiere_id: 1, type_evaluation: "test", note: 0, coefficient: 1, date_evaluation: "2024-11-07", commentaire: "Insuffisant", note_sur: 5 },
 ];
-];
