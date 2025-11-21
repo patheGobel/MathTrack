@@ -80,5 +80,5 @@ const notes = [
     { id: 400, eleve_id: 5, matiere_id: 1, type_evaluation: "test1", note: 1, coefficient: 1, date_evaluation: "2025-11-05", commentaire: "Insuffisant", note_sur: 5 },
     { id: 401, eleve_id: 5, matiere_id: 1, type_evaluation: "test2", note: 0, coefficient: 1, date_evaluation: "2025-11-07", commentaire: "Insuffisant", note_sur: 5 },
     { id: 402, eleve_id: 5, matiere_id: 1, type_evaluation: "test3", note: 2, coefficient: 1, date_evaluation: "2025-11-14", commentaire: "passable", note_sur: 5 },
-    { id: 402, eleve_id: 5, matiere_id: 1, type_evaluation: "test4", note: 2, coefficient: 1, date_evaluation: "2025-11-17", commentaire: "passable", note_sur: 5 },
+    { id: 402, eleve_id: 5, matiere_id: 1, type_evaluation: "test4", note: 3, coefficient: 1, date_evaluation: "2025-11-17", commentaire: "passable", note_sur: 5 },
 ];
